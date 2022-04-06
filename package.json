@@ -36,7 +36,7 @@
     "workbox-strategies": "^5.1.4",
     "workbox-streams": "^5.1.4"
   },
-  "homepage": "mobile_protrack",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
